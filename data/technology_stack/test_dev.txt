@@ -1,0 +1,1 @@
+Python, Java, Selenium, Pytest, Appium, API Automation, CI/CD Integration, Performance Testing (JMeter, Locust), Docker, SQL, Git

@@ -1,0 +1,1 @@
+Java, Spring Boot, LangChain4j, RAG, Vector Databases (Milvus, Pinecone), LLM Integration, OpenAI API, Prompt Engineering, Microservices, Docker, Kubernetes

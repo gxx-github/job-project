@@ -1,0 +1,1 @@
+Python, Django, Flask, FastAPI, MySQL, PostgreSQL, Redis, Celery, Docker, Kubernetes, RESTful API, Microservices, Git, CI/CD, Linux, Nginx

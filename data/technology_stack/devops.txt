@@ -1,0 +1,1 @@
+Linux, Shell Scripting, Python, Docker, Kubernetes, CI/CD (Jenkins, GitLab CI), AWS/Azure/GCP, Terraform, Ansible, Prometheus, Grafana, Nginx, Networking

@@ -1,0 +1,1 @@
+Manual Testing, Test Case Design, Bug Tracking (Jira), SQL, API Testing (Postman), Functional Testing, Regression Testing, Agile Methodologies
